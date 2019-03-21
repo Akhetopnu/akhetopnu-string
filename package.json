@@ -13,5 +13,8 @@
     "vanilla"
   ],
   "author": "Akhetopnu",
+  "publishConfig": {
+    "access": "public"
+  },
   "license": "WTFPL"
 }
